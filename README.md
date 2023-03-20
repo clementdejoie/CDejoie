@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Clement a fullstack developer (C#, Js, React, SQL)
+- 👋 Hi, I’m Clement a fullstack developer (C#, Python, Js, React, SQL)
 - 👀 I’m interested in code and IT
 - 💞️ I’m looking to collaborate on various project.
 - 📫 You can reach me at clement[dot]dejoie[at]gmail[dot]com
